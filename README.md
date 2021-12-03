@@ -42,6 +42,5 @@ To run tests on the application, install
 ```
 There is no test information for this application at this time.
 ```
-and run `npm run test` from the command line.
 
     
